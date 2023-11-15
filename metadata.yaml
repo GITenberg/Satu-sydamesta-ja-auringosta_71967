@@ -1,0 +1,29 @@
+_repo: Satu-sydamesta-ja-auringosta_71967
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaara, Elina
+    birthdate: 1903
+    deathdate: 1980
+    gutenberg_agent_id: '56352'
+    url: http://www.gutenberg.org/2009/agents/56352
+    wikipedia: https://fi.wikipedia.org/wiki/Elina_Vaara
+description: ''
+gutenberg_issued: '2023-10-27'
+identifiers:
+  gutenberg: '71967'
+language: fi
+pgterms:marc905: 20231023004554vaara
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Satu sydämestä ja auringosta
+url: http://www.gutenberg.org/ebooks/71967
