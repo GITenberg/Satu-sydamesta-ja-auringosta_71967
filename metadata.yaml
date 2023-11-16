@@ -1,5 +1,8 @@
 _repo: Satu-sydamesta-ja-auringosta_71967
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vaara, Elina
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56352
     wikipedia: https://fi.wikipedia.org/wiki/Elina_Vaara
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71967#Satu-sydamesta-ja-auringosta
 gutenberg_issued: '2023-10-27'
 identifiers:
   gutenberg: '71967'
